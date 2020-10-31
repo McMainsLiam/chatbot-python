@@ -1,0 +1,4 @@
+model_trainer.py
+user.pickle
+chatlog.pickle
+__pycache__

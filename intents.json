@@ -1,0 +1,236 @@
+{
+  "intents": [
+    {
+      "class": "hello",
+      "patterns": [
+        "Hello",
+        "Greetings",
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "Hola",
+        "Hey",
+        "Aloha",
+        "Bonjour"
+      ],
+      "responses": [
+        "Hello!",
+        "Hi, what would you like to know about Rocket League?",
+        "Great to see you!",
+        "Bonjour!"
+      ]
+    },
+    {
+      "class": "functionality",
+      "patterns": [
+        "What do you do?",
+        "How do you work?",
+        "What does this program do?",
+        "What can you tell me?",
+        "What's up?",
+        "What functionality do you provide?",
+        "What can do you?"
+      ],
+      "responses": [
+        "I am a ChatBot that likes to talk about the video game Rocket League. Ask me anything about Rocket League!",
+        "You can ask what Rocket League is, how the game is played, who plays it professionally, which platforms support Rocket League, etc."
+      ]
+    },
+    {
+      "class": "name-statement",
+      "patterns": [
+        "My name is Liam.",
+        "Hey, my name is George Lucas",
+        "People call me Jennifer",
+        "They call me Geoffrey",
+        "My nickname is Josh",
+        "My family says I am Stacy",
+        "I hate my name, it's Karen",
+        "My parents named me Abigail",
+        "I'm Shantal"
+      ]
+    },
+    {
+      "class": "information",
+      "patterns": [
+        "What have you learned",
+        "What do you know about me",
+        "What is my name",
+        "What have you saved about me",
+        "What is your model",
+        "What information have you learned"
+      ]
+    },
+    {
+      "class": "whatis",
+      "patterns": [
+        "What is Rocket League?",
+        "Tell me about Rocket League",
+        "What is it?",
+        "I've never heard of Rocket League before.",
+        "Can you give me more details.",
+        "What is the game?"
+      ],
+      "responses": [
+        "Rocket League is a vehicular soccer video game developed and published by Psyonix. The game was first released for Microsoft Windows and PlayStation 4 in July 2015, with ports for Xbox One and Nintendo Switch being released later on."
+      ]
+    },
+    {
+      "class": "howmany",
+      "patterns": [
+        "How many people can play?",
+        "How many players does it support?",
+        "Is rocket league multiplayer?",
+        "Does is support local multiplayer?",
+        "How many controllers can you play with?",
+        "Can I play with my friends?"
+      ],
+      "responses": [
+        "Rocket League supports both local and online multiplayer for up to 8 people in a single game. It's a great game to play with your friends!"
+      ]
+    },
+    {
+      "class": "whoplays",
+      "patterns": [
+        "Who plays Rocket League?",
+        "who are the pro Rocket League plays?",
+        "Who is the best at Rocket League?",
+        "Who plays it?",
+        "Who is the best at it?"
+      ],
+      "responses": [
+        "Some of the best Rocket League players include Pierre “Turbopolsa” Silfver, Alexandre “Kaydop” Courant, Garrett “GarrettG” Gordon, Remco “Remkoe” den Boer, Francesco “kuxir97” Cinquemani, and Cameron “Kronovi” Bills."
+      ]
+    },
+    {
+      "class": "howwork",
+      "patterns": [
+        "How does Rocket League work?",
+        "How do you play?",
+        "What are the rules?",
+        "How does it work?"
+      ],
+      "responses": [
+        "Described as 'soccer, but with rocket-powered cars', Rocket League has up to eight players assigned to each of the two teams, using rocket-powered vehicles to hit a ball into their opponent's goal and score points over the course of a match. The game includes single-player and multiplayer modes which can be played both locally and online, including cross-platform play between all versions"
+      ]
+    },
+    {
+      "class": "platform",
+      "patterns": [
+        "What does it run on?",
+        "What platforms can you play it on?",
+        "Where can you play Rocket League?",
+        "What platforms does it support?",
+        "Which consoles have Rocket League"
+      ],
+      "responses": [
+        "Rocket League is now free to play on all major consoles including the Switch, Xbox, Playstation, and PC! You should download it and give it a shot!"
+      ]
+    },
+    {
+      "class": "who",
+      "patterns": [
+        "Who made Rocket League?",
+        "What team developed Rocket League?",
+        "Who owns Rocket League?",
+        "Who made it?"
+      ],
+      "responses": [
+        "While Rocket League was originally developed by a company called Psyonix, it is now owned and operated by Epic Games, the same people who distribute Fortnite!"
+      ]
+    },
+    {
+      "class": "hate",
+      "patterns": [
+        "I hate epic games!",
+        "Epic games ruined rocket league",
+        "Screw epic games, they suck",
+        "I can't believe epic bought out rocket league, it made the game worse."
+      ],
+      "responses": [
+        "Right? Epic Games is the worst. They ruined Rocket League :("
+      ]
+    },
+    {
+      "class": "modes",
+      "patterns": [
+        "What game modes are there in Rocket League?",
+        "What are the different types of games in Rocket League?",
+        "How can you play Rocket League?",
+        "Which modes are there?"
+      ],
+      "responses": [
+        "Rocket League has many different modes you can try out. The classics include 1v1, 2v2, 3v3, and 4v4 chaos mode. Some of the more playful modes are Dropshot, Hoops, Snow Day, and Rumble."
+      ]
+    },
+    {
+      "class": "rumble",
+      "patterns": [
+        "What is Rumble?",
+        "Can you tell me more about Rumble?",
+        "How does Rumble work?"
+      ],
+      "responses": [
+        "Rumble is a variant of Rocket League where you are assigned powerups at random. These powerups include a boxing glove to smash the ball, freezing the ball, teleporting with other plays, a tractor beam that sucks the ball toward you, and a plunger for grabbing the ball."
+      ]
+    },
+    {
+      "class": "dropshot",
+      "patterns": [
+        "What is Dropshot?",
+        "Can you tell me more about Dropshot?",
+        "How does Dropshot work?"
+      ],
+      "responses": [
+        "Dropshot is a variant of Rocket League where the goal is underneath the ground. As you hit the ground with the ball, holes open up where you are then able to score. It's a lot of fun!"
+      ]
+    },
+    {
+      "class": "hoops",
+      "patterns": [
+        "What is Hoops?",
+        "Can you tell me more about Dropshot?",
+        "How does Dropshot work?"
+      ],
+      "responses": [
+        "Hoops is a classic. Hoops is very similar to Basketball. There are two hoops at either of the court which you attempt to dunk the ball into from above. A skilled hoops player can make some pretty awesome plays!"
+      ]
+    },
+    {
+      "class": "snowday",
+      "patterns": [
+        "What is Snow Day?",
+        "Can you tell me more about Snowday?",
+        "How does Snow Day work?"
+      ],
+      "responses": [
+        "Snow Day is a hockey variant of Rocket League. Instead of playing with a ball, you play with a puck that slides around on the ice. Snow Day is hard, but if you can handle the puck then you can make some great plays!"
+      ]
+    },
+    {
+      "class": "esports",
+      "patterns": [
+        "Is there an eSports scene for Rocekt League",
+        "Who plays Rocket League professionally?",
+        "Are there tournaments for Rocket League?",
+        "Is eSports important in Rocket League?"
+      ],
+      "responses": [
+        "Psyonix had observed the popularity of Rocket League matches on Twitch and other live streaming platforms, and in February 2016, were looking to use the game more in esports. In March 2016, Psyonix announced the first Rocket League Championship Series; the finals took place in August 2016 with a $55,000 prize pool. More than $1 million in revenues from the sale of in-game crates and cosmetic items were used to fund additional competitive events throughout the year, including smaller competitions at major gaming conventions and support for community-run competitive events. Rocket League is very important in the eSports scene."
+      ]
+    },
+    {
+      "class": "purchase",
+      "patterns": [
+        "Where can I buy it?",
+        "Can I purchase the game?",
+        "Where can I get Rocket League?",
+        "How do I get it?",
+        "Where can I download it?"
+      ],
+      "responses": [
+        "On PC, you can download Rocket League on Steam. Otherwise, be sure to check out your consoles store and I'm sure you can pick up Rocket League there. Have fun playing!"
+      ]
+    }
+  ]
+}
